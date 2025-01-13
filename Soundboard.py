@@ -42,7 +42,7 @@ sounds = {
     "Ta-da": pygame.mixer.Sound(resource_path("sounds/ta-da.mp3")),
     "Timer": pygame.mixer.Sound(resource_path("sounds/timer.mp3")),
     "Momento cultural": pygame.mixer.Sound(resource_path("sounds/momento_cultural.mp3")),
-    "X-Files": pygame.mixer.Sound(resource_path("sounds/expedientes.mp3")),
+    "Aliens": pygame.mixer.Sound(resource_path("sounds/expedientes.mp3")),
 }
 
 # Cargar imágenes
@@ -55,7 +55,7 @@ images = {
     "Ta-da": pygame.image.load(resource_path("images/ta-da.png")),
     "Timer": pygame.image.load(resource_path("images/timer.png")),
     "Momento cultural": pygame.image.load(resource_path("images/momento_cultural.png")),
-    "X-Files": pygame.image.load(resource_path("images/expedientes.png")),
+    "Aliens": pygame.image.load(resource_path("images/expedientes.png")),
 }
 
 # Ajustar tamaño de las imágenes
